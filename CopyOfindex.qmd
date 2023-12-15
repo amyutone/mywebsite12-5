@@ -1,0 +1,15 @@
+---
+title: "index.qmd"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+![](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Funnamed+(1).jpg)
+
+<https://github.com/amyutone>
+
+[academic.qmd]("/cloud/project/academic.qmd")

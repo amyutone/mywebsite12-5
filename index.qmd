@@ -1,0 +1,23 @@
+---
+title: "Homepage"
+format: html
+editor: visual
+---
+
+## Yutong Jiang
+
+yjiang17\@gwu.edu
+
+![](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Funnamed+(1).jpg)
+
+[Github](https://github.com/amyutone){.uri}
+
+[Resume](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FResume++-+Yutong+Jiang+.pdf)
+
+[Academic](academic.html)
+
+[map](map.html)
+
+[News](academic.qmd)[Article](news2.html)
+
+[\*](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FThank+You+Letter.pdf)\

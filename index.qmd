@@ -23,6 +23,6 @@ For more information about me, click the links below:
 
 -   My interest in making [Map](https://amyutone.github.io/mywebsite12-5/map.html)
 
--   My [News Article](https://amyutone.github.io/mywebsite12-5/academic.html)
+-   My [News Article](https://amyutone.github.io/mywebsite12-5/news2.html)
 
 [Thank you Professor Kessler for the creation of this website!](https://github.com/amyutone/mywebsite12-5/blob/main/Thank%20You%20Letter.pdf)\

@@ -12,7 +12,7 @@ Feel free to reach me at yutongjiang17\@gmail.com
 
 My [picture](https://github.com/amyutone/mywebsite12-5/blob/main/unnamed%20(1).jpg)
 
-![](unnamed%20(1).jpg)\
+\
 For more information about me, click the links below:
 
 -   My [Github](https://github.com/amyutone){.uri} Page

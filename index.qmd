@@ -6,18 +6,23 @@ editor: visual
 
 ## Yutong Jiang
 
-yjiang17\@gwu.edu
+I'm Yutong Jiang, a forth-year student at The George Washington University majoring in International Affairs with a minor in Journalism and Arabic & Hebrew Language and Culture. My passion for Middle Eastern studies and conflict resolution has been a guiding force in my academic journey.
+
+Feel free to reach me at yutongjiang17\@gmail.com
 
 ![](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Funnamed+(1).jpg)
 
-[Github](https://github.com/amyutone){.uri}
+\
+For more information about me, click the links below:
 
-[Resume](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FResume++-+Yutong+Jiang+.pdf)
+-   My [Github](https://github.com/amyutone){.uri} Page
 
-[Academic](academic.html)
+-   My [Resume](https://github.com/amyutone/mywebsite12-5/blob/main/Resume%20%20-%20Yutong%20Jiang%20.pdf)
 
-[map](map.html)
+-   My [Academic](https://amyutone.github.io/mywebsite12-5/academic.html) Article
 
-[News](academic.qmd)[Article](news2.html)
+-   My interest in making [Map](https://amyutone.github.io/mywebsite12-5/map.html)
 
-[\*](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FThank+You+Letter.pdf)\
+-   My [News Article](https://amyutone.github.io/mywebsite12-5/academic.html)
+
+[Thank you Professor Kessler for the creation of this website!](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FThank+You+Letter.pdf)\

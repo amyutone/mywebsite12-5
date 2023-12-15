@@ -25,4 +25,4 @@ For more information about me, click the links below:
 
 -   My [News Article](https://amyutone.github.io/mywebsite12-5/academic.html)
 
-[Thank you Professor Kessler for the creation of this website!](https://3b7c5ee739dd433787dcc4c8d8ed549d.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FThank+You+Letter.pdf)\
+[Thank you Professor Kessler for the creation of this website!](https://github.com/amyutone/mywebsite12-5/blob/main/Thank%20You%20Letter.pdf)\
